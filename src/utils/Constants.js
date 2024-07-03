@@ -1,0 +1,1 @@
+const SENTENCE_API="https://zenquotes.io/api/random";
